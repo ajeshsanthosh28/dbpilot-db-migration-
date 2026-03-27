@@ -85,5 +85,4 @@ dmypy.json
 # Ruff
 .ruff_cache/
 meta_*
-backend
 backup_upload
